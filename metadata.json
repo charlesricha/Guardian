@@ -1,0 +1,5 @@
+{
+  "name": "Guardian AI",
+  "description": "AI-powered suspicious behavior detection system for public transport safety.",
+  "requestFramePermissions": []
+}
